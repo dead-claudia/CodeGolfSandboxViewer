@@ -1,0 +1,25 @@
+Note: All code in any of the following forms are licensed under the Creative
+Commons Attribution-ShareAlike License 3.0, where (code) represents the
+offending source code (letter case insignificant, line breaks insignificant for
+forms 3 and 4).
+
+1. (code) // cc-by-sa
+
+2. (code) <!-- cc-by-sa -->
+
+3. /* start: CC-BY-SA */
+   (code)
+   /* end: CC-BY-SA */
+
+4. <!-- start: CC-BY-SA -->
+   (code)
+   <!-- end: CC-BY-SA -->
+
+All other code is under the below license until this license is updated. Then it
+will be licensed under that license, to be found at
+https://github.com/impinball/CodeGolfSandboxViewer/blob/master/LICENSE.txt
+
+LICENSE
+This code may be used freely as long as it is attributed to the members listed
+at the AUTHORS file, collectively known as the "Code Golf Sandbox Viewer
+Authors".
